@@ -46,9 +46,9 @@ body{
 }
 
 .home{
+    height: 100vh;
     display: flex;
     align-items: center;
-    height: 100vh;
     padding: 0 10%;
 }
 
